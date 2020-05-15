@@ -1,0 +1,5 @@
+baseURL = "https://asantana1970.github.io/static_website2/"
+languageCode = "en-us"
+title = "MISG XXI - My New Hugo Site"
+publishDir ="docs" 
+theme = "ananke" 
