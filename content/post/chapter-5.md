@@ -11,7 +11,7 @@ title: "Chapter V: HISTORIA DE EXITO: NETFLIX"
 
 La televisión tal y como la teníamos entendida hasta ahora ha cambiado del mismo modo que ha cambiado la manera en la que consumimos contenidos. Todo ello ha hecho que los espectadores hoy en día vean la televisión, en muchos casos, a través de las propias plataformas de las cadenas pero de un modo “a la carta”. Ocurre lo mismo con las series y películas, siendo Nexflix una de las principales plataformas que ha revolucionado este sector. En el post de hoy analizaremos este caso de Neflix y veremos porque es un éxito.
      
-** 1.-Netflix y los aspectos que lo hacen un caso de éxito** 
+1.-Netflix y los aspectos que lo hacen un caso de éxito
  
 Si vemos ahora lo que es Netflix poca gente conoce que su historia se remonta a antes del boom de los contenidos en streaming, y es que la historia de Netflix es un caso de éxito de compañía que se reinventa para ajustarse a las necesidades del mercado. Por ello, para entender bien qué es Netflix en la actualidad vale la pena echar las vista atrás y entender mejor su historia.
 
@@ -34,8 +34,7 @@ Más allá de la historia de innovación que se desprende de la evolución de Ne
 Como Netflix es un caso de éxito en la personalización 
 Hemos visto que la innovación forma parte del ADN de Netflix. Hay un aspecto destacable dentro de su estrategia que merece ser un punto de análisis en sí mismo y es la gestión de datos de los usuarios y la personalización. 
 Una de las claves de éxito de Netflix es cómo analiza los datos de sus usuarios y a través de este análisis es capaz de entender tendencias y correlaciones entre los usuarios y el contenido. Todo ello a través de tecnología de big data y algoritmos de inteligencia artificial para poder realizar predicciones sobre los gustos de los consumidores y así personalizar el contenido que se muestra a cada usuario.  De este modo, se ofrece una mejor experiencia de usuarios y se consigue una mayor vinculación a la plataforma. 
-**¿Eres usuario de Netflix? ¿Cuál crees que es el principal factor de éxito?**
+¿Eres usuario de Netflix? ¿Cuál crees que es el principal factor de éxito?
 
-
-** Guillermo Sancan Palacios**
+Guillermo Sancan Palacios
 
