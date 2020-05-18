@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TECNOLOGIA WEB on MISG XXI - GRUPO #7</title>
-    <link>https://asantana1970.github.io/static_website2/</link>
-    <description>Recent content in TECNOLOGIA WEB on MISG XXI - GRUPO #7</description>
+    <title>Articles on MISG XXI - GRUPO #7</title>
+    <link>https://asantana1970.github.io/static_website2/post/</link>
+    <description>Recent content in Articles on MISG XXI - GRUPO #7</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2020 11:15:58 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2020 12:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://asantana1970.github.io/static_website2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://asantana1970.github.io/static_website2/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -71,16 +71,6 @@ Si una persona llega a la página web de tu negocio, y te da su dirección de co
 1. Marketing por email:
 Es una forma de llegar al comprador directo enviándole un email a su correo, con las diferentes ofertas o lanzamientos que son enviadas de formas personalizada segun los intereses de cada cliente.
 Si una persona llega a la página web de tu negocio, y te da su dirección de correo para que le envíes noticias sobre los productos que vendes, es porque realmente está interesada en tu marca.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://asantana1970.github.io/static_website2/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://asantana1970.github.io/static_website2/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
-Your NameEmail AddressAn email address is required.Message</description>
     </item>
     
   </channel>
