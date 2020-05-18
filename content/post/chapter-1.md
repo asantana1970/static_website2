@@ -1,13 +1,4 @@
 ﻿---
-<<<<<<< HEAD
-date: 2020-05-17T10:58:08-04:00
-description: "Marketing Digital"
-featured_image: "/images/marketing.jpg"
-tags: ["scene"]
-title: "Estrategias"
----
-
-=======
 date: 2020-05-17T11:21:03-04:00
 description: "El Negocio Online"
 featured_image: "/images/mundo-digital-2.jpg"
@@ -46,5 +37,3 @@ Para ello requerirá un nivel de organización para ejecutar un negocio en líne
 
 **3.-Conocimientos de Marketing en Línea**
 Una apreciación del marketing es fundamental para asumir y administrar con éxito un negocio en línea, no hay que esconderse de la importancia de las prácticas de marketing en línea. Dado que el marketing en Internet es la forma en que uno hace correr la voz acerca de sus negocios, productos y servicios, vale la pena tomarse el tiempo para familiarizarse con los conceptos básicos de marketing web.
-
->>>>>>> 4abe5370b8b62a36b727b08b3be3be0b855708f9
