@@ -36,5 +36,7 @@ Hemos visto que la innovación forma parte del ADN de Netflix. Hay un aspecto de
 Una de las claves de éxito de Netflix es cómo analiza los datos de sus usuarios y a través de este análisis es capaz de entender tendencias y correlaciones entre los usuarios y el contenido. Todo ello a través de tecnología de big data y algoritmos de inteligencia artificial para poder realizar predicciones sobre los gustos de los consumidores y así personalizar el contenido que se muestra a cada usuario.  De este modo, se ofrece una mejor experiencia de usuarios y se consigue una mayor vinculación a la plataforma. 
 ¿Eres usuario de Netflix? ¿Cuál crees que es el principal factor de éxito?
 
+[WebSite Oficial](https://www.netflix.com/ec/)
+
 Guillermo Sancan Palacios
 
