@@ -7,6 +7,14 @@ title: "Chapter IV: Desventajas"
 ---
 
 Entre las desventajas del Marketing Digital tenemos:
+1. Existen clientes que no tienen acceso al Internet.
+2. La dependencia del Internet, el cual puede fallar.
+3. No escapa de ser ignorado por las personas.
+4. Desilusionados por no tener el producto que vieron en la pantalla.
+5. Descontenro por publicidad online.
+6. Internet produce desconfianza en las personas.
+
+
 
 #### 1. Hay clientes que no tienen acceso a Internet.
 
