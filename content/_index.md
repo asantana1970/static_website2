@@ -1,6 +1,6 @@
 ---
-title: "Ananke: a Hugo Theme"
+title: "TECNOLOGIA WEB"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+description: "WEB OPPORTUNITIES FOR BUSINESS."
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+*Nuestro futuro digital es permitir una mejor productividad y tomar decisiones para disfrutar de una mejor calidad de vida..*

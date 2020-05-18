@@ -1,6 +1,6 @@
 baseURL = "https://asantana1970.github.io/static_website2/"
 languageCode = "en-us"
-title = "MISG XXI - Tecnologia Web"
+title = "MISG XXI - GRUPO #7"
 publishDir ="docs" 
 theme = "ananke" 
 
@@ -22,7 +22,7 @@ enableRobotsTXT = true
   facebook = ""
   twitter = "https://twitter.com/GoHugoIO"
   instagram = ""
-  youtube = "www.youtube.com"
+  youtube = "https://www.youtube.com/watch?v=CkFcRU2FPvQ"
   github = ""
   gitlab = ""
   linkedin = ""
