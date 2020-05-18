@@ -1,5 +1,5 @@
 ---
-date: 2017-04-12T11:14:48-04:00
+date: 2020-05-18T11:14:48-04:00
 description: "Desventajas Marketing Digital"
 featured_image: "/images/desventajas.jpg"
 tags: ["scene"]
