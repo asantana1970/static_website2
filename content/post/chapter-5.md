@@ -7,7 +7,7 @@ title: "Chapter V: HISTORIA DE EXITO: NETFLIX"
 ---
 
 
-[YouTube Oficial](https://www.youtube.com/channel/UC5ZiUaIJ2b5dYBYGf5iEUrA)
+[YouTube Oficial NETFLIX](https://www.youtube.com/channel/UC5ZiUaIJ2b5dYBYGf5iEUrA)
 
 La televisión tal y como la teníamos entendida hasta ahora ha cambiado del mismo modo que ha cambiado la manera en la que consumimos contenidos. Todo ello ha hecho que los espectadores hoy en día vean la televisión, en muchos casos, a través de las propias plataformas de las cadenas pero de un modo “a la carta”. Ocurre lo mismo con las series y películas, siendo Nexflix una de las principales plataformas que ha revolucionado este sector. En el post de hoy analizaremos este caso de Neflix y veremos porque es un éxito.
      
