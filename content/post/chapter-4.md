@@ -3,7 +3,7 @@ date: 2017-04-12T11:14:48-04:00
 description: "Desventajas Marketing Digital"
 featured_image: ""
 tags: ["scene"]
-title: "Desventajas"
+title: "Chapter IV: Desventajas"
 ---
 
 Entre las desventajas del Marketing Digital tenemos:
