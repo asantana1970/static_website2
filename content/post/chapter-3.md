@@ -1,10 +1,10 @@
 ---
-date: 2017-04-11T11:13:32-04:00
+date: 2020-05-18T11:13:32-04:00
 description: "Ventajas del marketing digital"
 featured_image: ""
 tags: []
-title: "Ventajas"
----
+title: "Chapter III: Ventajas"
+--- 
 
 1. Presencia en línea 24/7: Disponibilidad para los clientes, en cualquier momento y en cualquier lugar.
 2. Intercambio de información: Permite comunicar información de interés entre compradores y vendedores. Ejemplo horarios de apertura, información de contacto, ubicación, etc.

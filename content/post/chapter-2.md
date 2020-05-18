@@ -1,5 +1,5 @@
 ---
-date: 2017-04-10T11:00:59-04:00
+date: 2020-05-18T11:00:59-04:00
 description: "Marketing Digital"
 featured_image: "/images/tecnologia.jpg"
 tags: ["scene"]
