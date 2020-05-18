@@ -1,17 +1,42 @@
 ---
-date: 2017-04-13T11:15:58-04:00
-description: "Quasimodo"
+date: 2020-05-18T11:15:58-04:00
+description: "Caso de Exito"
 featured_image: ""
 tags: []
-title: "Chapter V: Quasimodo"
+title: "Chapter V: HISTORIA DE EXITO: NETFLIX"
 ---
 
-In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion. It was settled that each candidate, man or woman (for it was possible to choose a female pope), should, for the sake of leaving the impression of his grimace fresh and complete, cover his face and remain concealed in the chapel until the moment of his appearance. In less than an instant, the chapel was crowded with competitors, upon whom the door was then closed.
 
-Coppenole, from his post, ordered all, directed all, arranged all. During the uproar, the cardinal, no less abashed than Gringoire, had retired with all his suite, under the pretext of business and vespers, without the crowd which his arrival had so deeply stirred being in the least moved by his departure. Guillaume Rym was the only one who noticed his eminence’s discomfiture. The attention of the populace, like the sun, pursued its revolution; having set out from one end of the hall, and halted for a space in the middle, it had now reached the other end. The marble table, the brocaded gallery had each had their day; it was now the turn of the chapel of Louis XI. Henceforth, the field was open to all folly. There was no one there now, but the Flemings and the rabble.
+[YouTube Oficial NETFLIX](https://www.youtube.com/channel/UC5ZiUaIJ2b5dYBYGf5iEUrA)
 
-The grimaces began. The first face which appeared at the aperture, with eyelids turned up to the reds, a mouth open like a maw, and a brow wrinkled like our hussar boots of the Empire, evoked such an inextinguishable peal of laughter that Homer would have taken all these louts for gods. Nevertheless, the grand hall was anything but Olympus, and Gringoire’s poor Jupiter knew it better than any one else. A second and third grimace followed, then another and another; and the laughter and transports of delight went on increasing. There was in this spectacle, a peculiar power of intoxication and fascination, of which it would be difficult to convey to the reader of our day and our salons any idea.
+La televisión tal y como la teníamos entendida hasta ahora ha cambiado del mismo modo que ha cambiado la manera en la que consumimos contenidos. Todo ello ha hecho que los espectadores hoy en día vean la televisión, en muchos casos, a través de las propias plataformas de las cadenas pero de un modo “a la carta”. Ocurre lo mismo con las series y películas, siendo Nexflix una de las principales plataformas que ha revolucionado este sector. En el post de hoy analizaremos este caso de Neflix y veremos porque es un éxito.
+     
+1.-Netflix y los aspectos que lo hacen un caso de éxito
+ 
+Si vemos ahora lo que es Netflix poca gente conoce que su historia se remonta a antes del boom de los contenidos en streaming, y es que la historia de Netflix es un caso de éxito de compañía que se reinventa para ajustarse a las necesidades del mercado. Por ello, para entender bien qué es Netflix en la actualidad vale la pena echar las vista atrás y entender mejor su historia.
 
-Let the reader picture to himself a series of visages presenting successively all geometrical forms, from the triangle to the trapezium, from the cone to the polyhedron; all human expressions, from wrath to lewdness; all ages, from the wrinkles of the new-born babe to the wrinkles of the aged and dying; all religious phantasmagories, from Faun to Beelzebub; all animal profiles, from the maw to the beak, from the jowl to the muzzle. Let the reader imagine all these grotesque figures of the Pont Neuf, those nightmares petrified beneath the hand of Germain Pilon, assuming life and breath, and coming in turn to stare you in the face with burning eyes; all the masks of the Carnival of Venice passing in succession before your glass,—in a word, a human kaleidoscope.
+Inicialmente, en el 1997, Netflix era una empresa de alquiler de DVDs a través de un modelo de e-commerce, podríamos decir que era un videoclub online: los DVD se alquilaban a través de su página web, se entregaban a domicilio y se podían disfrutar durante 7 días. Una de las características principales era que no se aplicaban penalidades por la devolución fuera de plazo de los DVDs. Esta propuesta de valor plantó cara a la cadena más extendida en EE.UU, Blockbuster, hasta el punto de que los fundadores de Netflix se acercaron a los propietarios de Blockbuster por si les querían comprar pero Blockbuster rechazó la oferta. 
+En 2002 Netflix salió a bolsa y tres años después ya acumulaba más de 4 millones de usuarios en su plataforma. Fue entonces, entendiendo el mercado y los hábitos consumidores que decidió realizar la innovación más grande que supondría una disrupción en el mercado: crear una plataforma de streaming a través de la cual los usuarios pueden ver las películas y series en sus ordenadores personales bajo demanda.
+ 
+A partir de este momento, su crecimiento es exponencial tanto a nivel de dispositivos en los que se puede reproducir el contenido así como en usuarios y en países en los que se puede utilizar la plataforma.    
+Actualmente, las cifras hablan por sí solas: 100 millones de suscriptores en el cierre de 2017, la plataforma está disponible en todos los países del mundo y su valoración bursátil es más de 83 mil millones de dólares.
+Más allá de la historia de innovación que se desprende de la evolución de Netflix, hay 5 aspectos destacados que hacen que se haya convertido en un caso de éxito y un boom imparable:
 
-The orgy grew more and more Flemish. Teniers could have given but a very imperfect idea of it. Let the reader picture to himself in bacchanal form, Salvator Rosa’s battle. There were no longer either scholars or ambassadors or bourgeois or men or women; there was no longer any Clopin Trouillefou, nor Gilles Lecornu, nor Marie Quatrelivres, nor Robin Poussepain. All was universal license. The grand hall was no longer anything but a vast furnace of effrontry and joviality, where every mouth was a cry, every individual a posture; everything shouted and howled. The strange visages which came, in turn, to gnash their teeth in the rose window, were like so many brands cast into the brazier; and from the whole of this effervescing crowd, there escaped, as from a furnace, a sharp, piercing, stinging noise, hissing like the wings of a gnat.
+- Contenido de calidad: el contenido disponible en Netflix es variado y la oferta es amplia pero, en general, se caracteriza por ser contenido de calidad en todos sus aspectos. Esto hace que el valor percibido por parte de los usuarios sea alto. 
+ 
+- Contenido propio: desde 2013 Netflix es productora de parte de su contenido. Se estrenó ese año con la serie House of Cards y lo hizo de nuevo en 2015 con su primera película propia, Beasts of no Nation. A través de esta estrategia, la plataforma es capaz de ofrecer contenido de calidad y superar la principal barrera que siempre ha tenido que es la reticencia por parte de los grandes productores de contenido a que Netflix reproduzca dichos contenidos.
+  
+- Precio competitivo: como hemos comentado en el primer punto, el valor percibido del servicio de Netflix es alto, si esto lo combinamos con una estrategia de precios asequibles, se convierte en una combinación revolucionaria que explica gran parte de su éxito.
+
+- Disponibilidad: flexibilidad total, siempre que quieras y dónde quieras tanto si estás conectado a internet como si no, ya que la funcionalidad de descarga de contenido todavía ofrece más autonomía.
+
+- Mejora de producto: la constante innovación hace que Netflix se esfuerce no solo para ampliar su carta de contenidos sino su plataforma a nivel tecnológico.  
+Como Netflix es un caso de éxito en la personalización 
+Hemos visto que la innovación forma parte del ADN de Netflix. Hay un aspecto destacable dentro de su estrategia que merece ser un punto de análisis en sí mismo y es la gestión de datos de los usuarios y la personalización. 
+Una de las claves de éxito de Netflix es cómo analiza los datos de sus usuarios y a través de este análisis es capaz de entender tendencias y correlaciones entre los usuarios y el contenido. Todo ello a través de tecnología de big data y algoritmos de inteligencia artificial para poder realizar predicciones sobre los gustos de los consumidores y así personalizar el contenido que se muestra a cada usuario.  De este modo, se ofrece una mejor experiencia de usuarios y se consigue una mayor vinculación a la plataforma. 
+¿Eres usuario de Netflix? ¿Cuál crees que es el principal factor de éxito?
+
+[WebSite Oficial](https://www.netflix.com/ec/)
+
+Guillermo Sancan Palacios
+

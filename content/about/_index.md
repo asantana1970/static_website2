@@ -1,8 +1,9 @@
 ---
 title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: ''
+description: ""
+featured_image: '/images/business-opportunitie-2.jpg'
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+
+
+_Richard Branson_ Nació el 18 de julio de 1950 en Blackheath, Reino Unido. Es un magnate de negocios inglés; conocido por su marca Virgin, con más de 360 empresas que forman Virgin Group. Branson fundó su primera empresa con éxito a los 16 años, cuando publicó una revista llamada Student. Richard Branson es la persona 286 más rica del mundo y la 12 más rica del Reino Unido, de acuerdo con Forbes, con un patrimonio neto estimado en $ 4,600 millones de dólares.
