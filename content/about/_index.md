@@ -4,8 +4,7 @@ description: ""
 featured_image: '/images/richard-branson.jpg'
 ---
 
-"Las Oportunidades con como los autobuses siempre hay otro llegando"
-
+**"Las Oportunidades con como los autobuses siempre hay otro llegando"**
 
 
 
