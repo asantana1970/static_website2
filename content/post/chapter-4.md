@@ -27,6 +27,8 @@ sus productos, ocasionando una muy mala experiencia a la hora de comprar. Esta s
 otra forma de comprar o que tenga una mala imagen de la empresa. Por lo tanto se recomienda que tan solo no dependan del
 Internet. Pueden emplear los telefonos e indicarles a los clientes que pueden comprar a traves de este medio.
 
+![texto_alternativo_imagen](https://images.clarin.com/2020/04/20/la-conexion-a-internet-puede___JV-gXDBLh_1256x620__1.jpg)
+
 #### 3. No escapa de ser ignorado por las personas.
 En ocasiones las personas cierran las publicidades de los productos y las mismas son ignoradas, lo cual genera en las
 empresas una desventaja ya que los clientes no conocen los productos.
