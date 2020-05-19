@@ -1,8 +1,13 @@
 ---
 title: "About"
 description: ""
-featured_image: '/images/business-opportunitie-2.jpg'
+featured_image: '/images/richard-branson.jpg'
 ---
+
+"Las Oportunidades con como los autobuses siempre hay otro llegando"
+
+
+
 
 
 
