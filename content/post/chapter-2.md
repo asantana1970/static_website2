@@ -6,9 +6,6 @@ tags: ["scene"]
 title: "Chapter II:Estrategias"
 ---
 
-
-
-
 [Video de Introduccion Marketing Digitital](https://www.youtube.com/watch?v=vNrxe5nJenU)
 
 
@@ -63,7 +60,6 @@ Una vez que estos llegan a ti, y acceden al contenido que has generado, tendrás
 **5.Diseño web adaptable para smartphone**
 
 ![texto_alternativo_imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS4oIY6dSNeUXJSWT5dqBTfk1lTrkxUWox5T9lAXePks-imbi0y&usqp=CAU)
-
 
 Es una estrategia que es vital para conseguir clientes y aumentar las ventas. El diseño tiene que estar adaptada para que se vea correctamente en un celular o Tablet y no sólo en una computadora.
 
