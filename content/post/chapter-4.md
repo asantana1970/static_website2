@@ -59,6 +59,14 @@ Ya que tienen cierto miedo a la hora de realizar compras online, porque son much
 9. Aunque se pague por el servicio la implementacion la realizamos nosotros, debido a que se debe de manejar la campaña publicitaria la forma como se llega
 hacia los clientes, se debe segmentar al cliente objetivo. En ocasiones se puede emplear un especialista en el area.
 
+10. No abarca todos los publicos y en algunas personas genera desconfianza.
+
+11. Se debe de revisar el contenido a mostrar, debido a que una vez que se publique es complicado de eliminar de la red.
+
+12. Se debe de actualizar el contenido con frecuencia.
+
+13. Se debe de monitorear las redes de forma continua.
+
 A continuacion las desventajas del Marketing Directo:
 - La ausencia de Base de Datos actualizadas y fiables.
 - La falta de profesionalismo en algunas empresas.
