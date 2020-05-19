@@ -33,6 +33,8 @@ Internet. Pueden emplear los telefonos e indicarles a los clientes que pueden co
 En ocasiones las personas cierran las publicidades de los productos y las mismas son ignoradas, lo cual genera en las
 empresas una desventaja ya que los clientes no conocen los productos.
 
+![texto_alternativo_imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlfv63kCAnC3WyTknicxVokGYjzRDxIInG4QzQW11heKzjFacY&usqp=CAU)
+
 #### 4. Desilusionados por no tener el producto que vieron en la pantalla.
 Otra desventaja es que existen varias personas que realizan sus compras en forma online, no conocen el fisico del producto.
 Cuando llega el producto a las manos del cliente en ocasiones no cumplen con las expectativas. 
