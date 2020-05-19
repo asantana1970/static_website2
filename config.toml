@@ -19,9 +19,9 @@ enableRobotsTXT = true
 [params]
   favicon = ""
   description = "The last theme you'll ever need. Maybe."
-  facebook = ""
+  facebook = "https://www.facebook.com/"
   twitter = "https://twitter.com/GoHugoIO"
-  instagram = ""
+  instagram = "https://www.instagram.com/?hl=es-la"
   youtube = "https://www.youtube.com/watch?v=CkFcRU2FPvQ"
   github = ""
   linkedin = ""
