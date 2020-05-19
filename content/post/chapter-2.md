@@ -3,7 +3,7 @@ date: 2020-05-17T10:58:08-04:00
 description: "Marketing Digital"
 featured_image: "/images/marketing.jpg"
 tags: ["scene"]
-title: "Chapter II:Estrategias"
+title: "Chapter II:Estrategias de Marketing Digital"
 ---
 
 [Video de Introduccion Marketing Digitital](https://www.youtube.com/watch?v=vNrxe5nJenU)
