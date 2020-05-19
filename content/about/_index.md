@@ -1,9 +1,9 @@
 ---
-title: "About"
+title: "¿Que es Marketing Digital?"
 description: ""
 featured_image: '/images/business-opportunitie-2.jpg'
 ---
 
+El marketing digital es la aplicación de las estrategias de comercialización llevadas a cabo en los medios digitales. Todas las técnicas del mundo off-line son imitadas y traducidas a un nuevo mundo, el mundo online. En el ámbito digital aparecen nuevas herramientas como la inmediatez, las nuevas redes que surgen día a día, y la posibilidad de mediciones reales de cada una de las estrategias empleadas.
 
-
-_Richard Branson_ Nació el 18 de julio de 1950 en Blackheath, Reino Unido. Es un magnate de negocios inglés; conocido por su marca Virgin, con más de 360 empresas que forman Virgin Group. Branson fundó su primera empresa con éxito a los 16 años, cuando publicó una revista llamada Student. Richard Branson es la persona 286 más rica del mundo y la 12 más rica del Reino Unido, de acuerdo con Forbes, con un patrimonio neto estimado en $ 4,600 millones de dólares.
+<kbd>![texto_alternativo_imagen](https://www.mdmarketingdigital.com/img/marketingdigital-se/qmd-main-desk.jpg)</kbd>
